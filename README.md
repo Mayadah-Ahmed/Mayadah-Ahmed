@@ -32,7 +32,7 @@ Expected Graduation: 2028
 * Django Development
 * Database Design
 * Software Engineering Principles
-* Backend Development Fundamentals
+* Web Development Fundamentals
 
 ---
 
@@ -63,7 +63,6 @@ Expected Graduation: 2028
 
 ### Core Courses Completed
 
-* Fundamentals of Computer Science
 * Structured Programming
 * Object-Oriented Programming
 * Data Structures
@@ -92,13 +91,6 @@ Expected Graduation: 2028
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayadah-Ahmed\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayadah-Ahmed\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🤝 Connect With Me
 
